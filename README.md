@@ -1,5 +1,5 @@
 # Repository221B
 
-Project coming soon
+Project coming soon.
 
-As well as things for class
+As well as things for class.
